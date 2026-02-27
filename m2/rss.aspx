@@ -15,10 +15,10 @@
     <category>Sample Category</category>
   </item>
   <item>
-    <title>Me lo cifro y me lo programo</title>
-    <link>http://example.com/sample-link</link>
+    <title>Barbapapa intro</title>
+    <link>https://file.garden/aaIgHq5O2kLuCAyA/barbapapa.wav</link>
     <imageurl>http://example.com/sample-image.jpg</imageurl>
-    <description>Soriana vende malos productos.</description>
+    <description>I want to be like Barbapapa</description>
     <category>Sample Category</category>
   </item>
   <item>
