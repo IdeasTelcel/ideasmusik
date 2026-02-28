@@ -30,7 +30,7 @@
   </item>
     <item>
     <title>El Omero Dou Serbesa</title>
-    <link>http://example.com/sample-link</link>
+    <link>https://file.garden/aaIgHq5O2kLuCAyA/homero.wav</link>
     <imageurl>http://example.com/sample-image.jpg</imageurl>
     <description>dou dou dou zerbeza</description>
     <category>Sample Category</category>
