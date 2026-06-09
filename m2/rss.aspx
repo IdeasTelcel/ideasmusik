@@ -2,7 +2,7 @@
 <items>
   <item>
     <title>Zuzubalandia</title>
-    <link>https://files.catbox.moe/to162e.wav</link>
+    <link>https://files.catbox.moe/nbv4vk.mp3</link>
     <imageurl>http://example.com/images/leafy.jpg</imageurl>
     <description>Su su planta soso abalanza</description>
     <category>Sample Category</category>
@@ -16,7 +16,7 @@
   </item>
   <item>
     <title>Barbapapa intro</title>
-    <link>https://file.garden/aaIgHq5O2kLuCAyA/barbapapa.wav</link>
+    <link>https://file.garden/aaIgHq5O2kLuCAyA/barbapapa.mp3</link>
     <imageurl>http://example.com/sample-image.jpg</imageurl>
     <description>I want to be like Barbapapa</description>
     <category>Sample Category</category>
