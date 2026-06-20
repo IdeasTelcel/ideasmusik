@@ -22,10 +22,10 @@
     <category>Sample Category</category>
   </item>
   <item>
-    <title>Regueton de Paulo Romero</title>
+    <title>dead link will replace later</title>
     <link>https://files.catbox.moe/1zt60z.m4a</link>
     <imageurl>http://example.com/sample-image.jpg</imageurl>
-    <description>Me cifro el programa</description>
+    <description>en</description>
     <category>Sample Category</category>
   </item>
     <item>
